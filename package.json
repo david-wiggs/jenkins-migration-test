@@ -1,0 +1,9 @@
+{
+  "name": "my-web-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Building...' && exit 0",
+    "test": "echo 'Testing...' && exit 0",
+    "lint": "echo 'Linting...' && exit 0"
+  }
+}
